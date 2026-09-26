@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-superhero",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Superhero MCP — wraps akabab.github.io/superhero-api (free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-566feb663f4b115390481d15e67d7ee523259995c8281f0d3096432928133caf",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-274e277b19d4260b2e034398f088a23e64b891cde8d7ffec95feaa9d0b736d31",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/superhero",
   "title": "Superhero",
   "description": "Superhero MCP — wraps akabab.github.io/superhero-api (free, no auth)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://pipeworx.io/packs/superhero",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-superhero",
